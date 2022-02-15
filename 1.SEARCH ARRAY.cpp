@@ -2,7 +2,7 @@
 #include<stdio.h>
 void search(int a[],int *size,int *element)
 {
-	int i;
+	
 	for(i=0;i<(*size);i++)
 	{
 		if(a[i]==(*element))
